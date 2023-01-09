@@ -8,5 +8,3 @@
     <img style='height: 100%; width: 50%' align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=galievdev&show_icons=true&include_all_commits=true&theme=vue"/>
    <img style='height: 100%; width: 37%' align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galievdev&include_all_commits=true&theme=vue&layout=compact&langs_count=10"/></a>
  </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=galievdev&theme=dark&background=000000)](https://git.io/streak-stats)
- 
