@@ -1,7 +1,7 @@
 
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=rounded&text=Galiev&desc=Java&&Kotlin%20Developer&color=gradient&descAlignY=80&height=140&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&text=Galiev&desc=Java%20&&%20Kotlin%20Developer&color=gradient&descAlignY=80&height=140&fontAlignY=40)
 
 
 <a href="" stele="color: #00000000;">
