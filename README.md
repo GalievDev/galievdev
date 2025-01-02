@@ -15,7 +15,7 @@ Frameworks that I use for development:
 - FastAPI
 - FabricMC
 
-In particular, I am a self-taught programmer and a student of Innopolis University
+In particular, I am a self-taught programmer ~and a student of Innopolis University~
 
 <div align="start">
 <a href="" stele="color: #00000000;">
